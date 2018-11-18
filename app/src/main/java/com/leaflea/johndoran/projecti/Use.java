@@ -2,9 +2,6 @@ package com.leaflea.johndoran.projecti;
 
 import android.os.RemoteException;
 
-/**
- * Created by John on 21/08/16.
- */
 public class Use extends Main implements Runnable {
     private int option=0;
     public static String token;
