@@ -1,8 +1,5 @@
 package com.leaflea.johndoran.projecti;
 
-/**
- * Created by John on 15/07/15.
- */
 import java.nio.FloatBuffer;
 import java.nio.ShortBuffer;
 
