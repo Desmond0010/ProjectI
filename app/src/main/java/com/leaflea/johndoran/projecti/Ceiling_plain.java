@@ -2,9 +2,6 @@ package com.leaflea.johndoran.projecti;
 
 import javax.microedition.khronos.opengles.GL10;
 
-/**
- * Created by John on 15/07/15.
- */
 
 public class Ceiling_plain extends Walls {
 
