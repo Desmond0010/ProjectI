@@ -1,8 +1,6 @@
 package com.leaflea.johndoran.projecti;
 
-/**
- * Created by John on 25/08/15.
- */
+
 
 import javax.microedition.khronos.opengles.GL10;
 
