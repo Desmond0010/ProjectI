@@ -2,9 +2,7 @@ package com.leaflea.johndoran.projecti;
 
 import javax.microedition.khronos.opengles.GL10;
 
-/**
- * Created by John on 14/06/16.
- */
+
 public class HangGlider extends Vehicles {
 
     public float[] getModelVertArray() {
