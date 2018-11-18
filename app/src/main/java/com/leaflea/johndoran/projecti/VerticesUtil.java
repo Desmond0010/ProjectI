@@ -2,9 +2,7 @@ package com.leaflea.johndoran.projecti;
 
 import javax.microedition.khronos.opengles.GL10;
 
-/**
- * Created by John on 19/01/16.
- */
+
 public  class VerticesUtil {
 
 
