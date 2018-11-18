@@ -9,10 +9,6 @@ import java.nio.ShortBuffer;
 
 import javax.microedition.khronos.opengles.GL10;
 
-/**
- * Created by John Doran on 02/08/2015.
- */
-
 
 public class renderController {
 
