@@ -1,9 +1,7 @@
 package com.leaflea.johndoran.projecti;
 import javax.microedition.khronos.opengles.GL10;
 
-/**
- * Created by John on 01/08/16.
- */
+
 public class Theme {
     Boolean firstTime=true;
     private static Boolean PPbought=true;
