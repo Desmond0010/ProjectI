@@ -1,8 +1,5 @@
 package com.leaflea.johndoran.projecti;
 
-/**
- * Created by John on 27/06/16.
- */
 public class Steering {
 
 
