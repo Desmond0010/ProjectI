@@ -1,8 +1,5 @@
 package com.leaflea.johndoran.projecti;
 
-/**
- * Created by John on 30/08/16.
- */
 public class GameStore {
 
 
