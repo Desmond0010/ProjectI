@@ -5,9 +5,7 @@ import java.nio.ShortBuffer;
 
 import javax.microedition.khronos.opengles.GL10;
 //import android.R;
-/**
- * Created by John on 15/07/15.
- */
+
 
 public class FontClass {
     private GL10 gl;
