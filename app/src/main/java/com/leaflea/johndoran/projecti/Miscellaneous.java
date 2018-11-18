@@ -1,8 +1,5 @@
 package com.leaflea.johndoran.projecti;
 
-/**
- * Created by John on 23/06/16.
- */
 public class Miscellaneous extends Vehicles{
 
     //rotor
