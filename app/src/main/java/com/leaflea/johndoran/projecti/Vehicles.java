@@ -3,9 +3,6 @@ package com.leaflea.johndoran.projecti;
 import java.nio.FloatBuffer;
 import java.nio.ShortBuffer;
 
-/**
- * Created by John on 15/07/15.
- */
 public abstract class Vehicles {
 
 
