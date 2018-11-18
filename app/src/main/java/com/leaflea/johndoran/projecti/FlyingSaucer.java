@@ -2,9 +2,7 @@ package com.leaflea.johndoran.projecti;
 
 import javax.microedition.khronos.opengles.GL10;
 
-/**
- * Created by John on 21/06/16.
- */
+
 public class FlyingSaucer extends Vehicles {
 
 
