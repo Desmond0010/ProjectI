@@ -30,11 +30,10 @@ import com.leaflea.johndoran.projecti.util.Purchase;
 import java.util.ArrayList;
 
 /**
- * Created by John Doran on 02/08/2015.
  *
- * Created by Desmond Doran over the course of two years.
+ * Created by Desmond Doran.
  * Desmond Doran. All rights reserved.
- * Copyright 2016, Desmond Doran, All rights reserved.
+ * Copyright Desmond Doran, All rights reserved.
  */
 
 public class Main extends Activity implements IabBroadcastListener {
