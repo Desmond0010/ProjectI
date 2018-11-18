@@ -36,7 +36,7 @@ import javax.microedition.khronos.opengles.GL10;
  * Created by Desmond Doran on 02/08/2015.
  *
  * Desmond Doran. All rights reserved.
- *Copyright 2016, Desmond Doran, All rights reserved.
+ *Copyright, Desmond Doran, All rights reserved.
  */
 
 /*
