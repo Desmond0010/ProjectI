@@ -1,8 +1,6 @@
 package com.leaflea.johndoran.projecti;
 
-/**
- * Created by John on 15/07/15.
- */
+
 public abstract class Walls {
 
 
