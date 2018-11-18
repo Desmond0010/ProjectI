@@ -5,9 +5,7 @@ import java.nio.ShortBuffer;
 
 import javax.microedition.khronos.opengles.GL10;
 
-/**
- * Created by John on 25/06/16.
- */
+
 public class WarPlane extends Vehicles {
 
     public int getPrice() {
