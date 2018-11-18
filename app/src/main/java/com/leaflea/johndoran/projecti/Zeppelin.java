@@ -2,9 +2,6 @@ package com.leaflea.johndoran.projecti;
 
 import javax.microedition.khronos.opengles.GL10;
 
-/**
- * Created by John on 22/06/16.
- */
 public class Zeppelin extends Vehicles {
 
 
