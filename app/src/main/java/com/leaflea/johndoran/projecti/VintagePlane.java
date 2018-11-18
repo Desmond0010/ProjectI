@@ -2,9 +2,6 @@ package com.leaflea.johndoran.projecti;
 
 import javax.microedition.khronos.opengles.GL10;
 
-/**
- * Created by John on 02/02/16.
- */
 public class VintagePlane extends Vehicles {
     public int getPrice() {
         return price;
