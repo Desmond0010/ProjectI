@@ -1,2 +1,2 @@
 # ProjectI
-This is my first ever android app.
+Android app I created a couple years ago
